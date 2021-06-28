@@ -3,7 +3,7 @@
 ### I'm Felipe Lisboa
 - I Live in <img src="https://user-images.githubusercontent.com/53651862/123627276-2cdd0980-d7e8-11eb-971a-4d2a0248b009.png" alt="CSS" width="18" height="18" style="max-width:100%;"></img>, northeast 😎 :sunny:
 
-## My Skills
+## My Skills:
 <p>
 <!--CSS-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
