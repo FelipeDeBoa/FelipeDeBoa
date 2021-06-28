@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-https://camo.githubusercontent.com/344c50b42b2e7254869889b59b9e38432d92eb2df2eabda7d59904d91bb2f45f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f70616e632673686f775f69636f6e733d74727565267468656d653d6461726b
+###I'm Felipe Lisboa
+- I Live in :brazil:, northeast 😎
+
+## My Skills
+<!--CSS-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="max-width:100%;"></img>
+<!--HTML-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="max-width:100%;"></img>
+<!--JAVA SCRIPT-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JAVA SCRIPT" width="40" height="40" style="max-width:100%;"></img>
+<!--Bootstrap-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="BootStrap" width="40" height="40" style="max-width:100%;"></img>
 
 <!--
 **FelipeDeBoa/FelipeDeBoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
