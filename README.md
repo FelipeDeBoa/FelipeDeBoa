@@ -4,13 +4,13 @@
 - Eu moro no <img src="https://user-images.githubusercontent.com/53651862/123627276-2cdd0980-d7e8-11eb-971a-4d2a0248b009.png" alt="CSS" width="18" height="18" style="max-width:100%;"></img>, nordestino com orgulho! 😎 :sunny:
 
 ### 🛠 Minhas habilidades (✨Skills✨)
-<p>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-</p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDeBOa&show_icons=true&theme=dark)
 
