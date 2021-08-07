@@ -2,7 +2,9 @@
 
 ### Eu sou  [Felipe Lisboa](https://felipedeboa.github.io/)
 [![LinkedIn](https://img.shields.io/badge/felipelisboa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lisboa-aa6b61216/)
-[![Instagram](https://img.shields.io/badge/FelipeLisboa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://https://www.instagram.com/felipe_deboa)
+[![Instagram](https://img.shields.io/badge/FelipeLisboa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/felipe_deboa)
+
+- Moro em Fortaleza-Ce Brasil <img src="https://user-images.githubusercontent.com/53651862/123627276-2cdd0980-d7e8-11eb-971a-4d2a0248b009.png" alt="CSS" width="18" height="18" style="max-width:100%;"></img>, nordestino com orgulho! 😎 :sunny:
 
 ### 🚀 Experiências
 
@@ -12,9 +14,9 @@ Possuo responsabilidade, pontualidade, criatividade e desenvoltura para realizar
 desempenho, eficiência e entusiasmo, a fim de que minhas habilidades possam contribuir para o crescimento
 e desenvolvimento da mesma na área que vier a exercer.
 
-### Características principais: Dinamismo, Resoluto e fácil aprendizado
+### Características principais
 
-- Moro em Fortaleza-Ce Brasil <img src="https://user-images.githubusercontent.com/53651862/123627276-2cdd0980-d7e8-11eb-971a-4d2a0248b009.png" alt="CSS" width="18" height="18" style="max-width:100%;"></img>, nordestino com orgulho! 😎 :sunny:
+Dinamismo, Resoluto e fácil aprendizado
 
 ### 🛠 Minhas habilidades (✨Skills✨)
 
