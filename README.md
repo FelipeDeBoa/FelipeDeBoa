@@ -1,7 +1,7 @@
-### Aew de boa ? 👋
+### Aew de boa ? 👍
 
 ### Eu sou  [Felipe Lisboa](https://felipedeboa.github.io/)
-- Eu moro no <img src="https://user-images.githubusercontent.com/53651862/123627276-2cdd0980-d7e8-11eb-971a-4d2a0248b009.png" alt="CSS" width="18" height="18" style="max-width:100%;"></img>, nordestino com orgulho! 😎 :sunny:
+- Moro em Fortaleza-Ce Brasil <img src="https://user-images.githubusercontent.com/53651862/123627276-2cdd0980-d7e8-11eb-971a-4d2a0248b009.png" alt="CSS" width="18" height="18" style="max-width:100%;"></img>, nordestino com orgulho! 😎 :sunny:
 
 ### 🛠 Minhas habilidades (✨Skills✨)
 
