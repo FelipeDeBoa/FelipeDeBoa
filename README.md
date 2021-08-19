@@ -28,7 +28,7 @@ Dinamismo, Resoluto e fácil aprendizado
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDeBOa&show_icons=true&theme=dark)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeBOa&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeBOa&layout=compact&langs_count=7&theme=dark"/>
 
 
 
