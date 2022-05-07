@@ -14,6 +14,11 @@ Possuo responsabilidade, pontualidade, criatividade e desenvoltura para realizar
 desempenho, eficiência e entusiasmo, a fim de que minhas habilidades possam contribuir para o crescimento
 e desenvolvimento da mesma na área que vier a exercer.
 
+### SITES 
+- https://camaleaowebdeboa.github.io/
+- https://lsartfestweb.github.io/
+- https://felipedeboa.github.io/
+
 ### Características principais
 
 Dinamismo, Resoluto e fácil aprendizado
