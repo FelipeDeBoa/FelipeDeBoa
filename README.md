@@ -18,6 +18,7 @@ e desenvolvimento da mesma na área que vier a exercer.
 - https://camaleaowebdeboa.github.io/
 - https://lsartfestweb.github.io/
 - https://felipedeboa.github.io/
+- https://gerador-assinatura.github.io/gerador-assinatura/
 
 ### Projeto (Integração NLU)
 - https://botebol.com.br/
