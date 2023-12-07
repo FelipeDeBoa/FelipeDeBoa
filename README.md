@@ -8,7 +8,7 @@
 
 ### 🚀 Experiências
 
-Hoje eu sou um analista de sistema, e estudante na área de sistemas e desenvolvimento web.
+Hoje eu sou um analista de sistema, e cursando Especialização em Teste e Qualidade de Software 🕵️
 
 Possuo responsabilidade, pontualidade, criatividade e desenvoltura para realizar um trabalho com
 desempenho, eficiência e entusiasmo, a fim de que minhas habilidades possam contribuir para o crescimento
